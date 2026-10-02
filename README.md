@@ -80,6 +80,7 @@ On Windows:
 The project includes unit, controller, integration and security tests.
 
 ## Project Structure
+```text
 src/main/java/health_api/
 ├── config/
 ├── controller/
@@ -88,6 +89,7 @@ src/main/java/health_api/
 ├── model/
 ├── repository/
 └── service/
+```
 ## Future Improvements
 Swagger / OpenAPI
 Flyway migrations
